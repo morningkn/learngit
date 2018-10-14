@@ -1,4 +1,4 @@
-2018-10-14 ÁÎÑ©·å git½Ì³Ì complete
+2018-10-14 å»–é›ªå³° gitæ•™ç¨‹ completed
 
 git is a distributed version control system.
 git is a free software distributed under the GPL.
